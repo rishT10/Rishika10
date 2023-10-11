@@ -1,2 +1,1 @@
-# Rishika10
-first repository
+Hello! This is my first Repository
